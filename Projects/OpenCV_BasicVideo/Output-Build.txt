@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: HelloOpenCV_Video, Configuration: Debug Win32 ------
+1>  main.cpp
+1>  HelloOpenCV_Video.vcxproj -> C:\Users\mattb_000\Documents\Visual Studio 2010\Projects\HelloOpenCV_Video\Debug\HelloOpenCV_Video.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
